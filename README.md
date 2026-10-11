@@ -13,5 +13,5 @@ Se utiliza la siguiente estructura:
 
 ## Tecnologías utilizadas:
 
-[Agent Development Kit (ADK)](https://adk.dev/)
+[Agent Development Kit (ADK)](https://adk.dev/),
 [Python](https://www.python.org/)
